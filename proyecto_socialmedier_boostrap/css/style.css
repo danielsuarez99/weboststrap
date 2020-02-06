@@ -1,0 +1,254 @@
+.bg-blue{
+    background: rgb(0, 132, 240) !important;
+    padding: 0%;
+    height: 100px;
+}
+.nav-position{
+    padding: 0%;
+    margin-left: 125px;
+}
+.nav-position img{
+    max-width: 276px;
+    height: 90px;
+    
+}
+.li-size li{
+    width: auto;
+    text-align: center;
+    padding-bottom: 3px;
+    padding-right: 17px;
+
+}
+.li-size li a{
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #ffffff !important;
+    white-space: nowrap;
+    font-style: 'Raleway',sans-serif;
+}
+.social{
+    padding: 0px 161px 0px 17px;
+}
+.social ul li a img{
+    width: 20px;
+    height: 20px;
+}
+.social ul li a{
+    padding: 0px 2px 13px !important;
+}
+.Hero{
+    height: 623px;
+    background-image: url(../images/fondo.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.image-Hero{
+    padding-top: 20px;
+    padding-right: 40px;
+}
+.Hero-right{
+   height: inherit;
+
+}
+.form-Hero{
+    width: 535px;
+   padding-top: 32%;
+}
+.form-Hero h4{
+    color: #999999;
+    font-size: 18px;
+    font-family: 'Raleway',sans-serif !important;
+    line-height: 1.475em;
+}
+.Input-Name{
+    width: 255px !important;
+    height: 44px !important;
+    padding: 8px;
+    border: 2px solid #ccc !important;
+    border-radius: 6px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 19px;
+    margin: 10px 5px 0 0;
+}
+.bottom-size{
+    width: 516px;
+    height: 48px;
+    padding: 11px 11px 11px 11px ;
+    margin-top: 10px;
+    border: none;
+    background-color: #FF8204;
+    border-radius: 6px;
+    font-size: 19px;
+}
+.mention-leter{
+    text-align: center;
+}
+.bg-mention{
+    background-color: #0084f0;
+    height: 173px;
+}
+.col h6{
+    color: #ffffff;
+    padding-top: 17px;
+}
+
+.mention-image img{
+    width: 565px;
+    height: 105px;
+
+}
+.first-mention{
+    padding: 0px;
+}
+.second-mention{
+    padding: 0px;
+}
+.first-mention img{
+    text-align: center;
+    margin-left: 105px;
+  
+}
+.second-mention img{
+    text-align: center;
+    margin-right: 50px;
+
+}
+.Page-second{
+    height: 572px;
+    background-image: url(../images/fondo2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.main-image2{
+    padding-top: 60px;
+}
+.main-page2{
+    text-align: center;
+    margin-top: 90px;
+
+}
+.image-logo2{
+    margin-bottom: 7px;
+}
+.h4-top{
+    font-family: 'Raleway',sans-serif;
+    color: #303030;
+    font-size: 19px;
+    letter-spacing: 0.05px;
+    
+}
+.bottom-main2{
+    width: 341px;
+    height: 51px;
+    padding: 0px 29px 0px 29px;
+    border: 2px solid rgb(255, 130, 4);
+    font-style: normal;
+    background-color: rgb(255, 130, 4);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 700;
+    font-family: 'Raleway',sans-serif;
+    letter-spacing: 1px;
+    border-radius: 4px;
+    line-height: 47px;
+    margin: 15px 0 20px 0;
+}
+.h4-bottom{
+    margin: 0px;
+    font-size: 18px;
+    font-family: 'Raleway',sans-serif;
+    color: #0084f0;
+    line-height: 25px;
+}
+.follome{
+    color: black;
+    font-size: 18px;
+    font-family: 'Raleway',sans-serif;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.first-slider{
+    width: 100%;
+    min-height: 157px;
+    background-color: #0084f0;
+    text-align: center;
+}
+.text-slider{
+    padding-top: 35px;
+}
+.text-slider h6{
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-family: 'Raleway',sans-serif;
+    margin: 0px;
+}
+.slider-full{
+    width: auto;
+    height: 91px;
+    margin: 0 135.500px;
+    overflow: hidden;
+    text-align: center;
+    
+}
+.slider-full ul{
+    display: flex;
+    height: 91px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    animation: cambio 20s infinite alternate;
+    
+}
+.slider-full ul li img{
+    width: 181px;
+    height: 91px;
+}
+@keyframes cambio{
+   
+    0% {margin-left: 0;}
+    14% {margin-left: 0;}
+    
+    20% {margin-left: -181px;}
+    34% {margin-left: -181px;}
+
+    40% {margin-left: -362px;}
+    54%{margin-left: -362px;}
+
+    60% {margin-left: -543px;}
+    74% {margin-left: -543px;}
+    
+    80% {margin-left: -724px;}
+    96% {margin-left: -724px;}
+
+}
+.content-slider-zise{
+    height: 293px;
+    padding: 40px 0 15px 0;
+}
+.contenedor-slider{
+
+    display: flex;
+
+}
+.Image-carousel{
+    width: 150px !important;
+    height: 150px;
+}
+.general-zise{
+    width: 1100px;
+    height: 238px;
+    margin: 0 139px 0 139px;
+}
+.carousel-inner{
+    width: 1080px;
+    height: 218px;
+    padding: 10px 40px;
+    margin: 20px 10px 0 10px;
+}
